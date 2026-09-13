@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Special+Elite&amp;display=swap');
+    text {
+      font-family: 'Special Elite', monospace;
+      font-size: 28px;
+      font-weight: bold;
+      fill: #24292e;
+    }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #c9d1d9; }
+    }
+  </style>
+  <text x="0" y="32">Tech Stack:</text>
+</svg>
