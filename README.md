@@ -12,4 +12,10 @@ I'm a CS Student exploring the ways how Engineered Intelligence interacts with H
 ![](https://streak-stats.demolab.com/?user=sk-shiven&theme=kacho_ga&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sk-shiven&theme=kacho_ga&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🚀 Space Shooter Game
+<p align="center">
+  <img src="game.gif" alt="Space Shooter Game" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
