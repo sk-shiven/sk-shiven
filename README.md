@@ -5,6 +5,7 @@
 [![Linktree](https://img.shields.io/badge/linktree-%231de9b6.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sk_shiven)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sk_shiven)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sk-shiven)
+[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@sk_shiven)
 
 ![Tech Stack](assets/tech_stack_title.svg)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
